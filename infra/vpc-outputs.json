@@ -1,0 +1,5 @@
+﻿{
+    "VpcId":  "vpc-00792b722f3fb11e0",
+    "PublicSubnet":  "subnet-0816b8fe2393d4fdf",
+    "PrivateSubnet":  "subnet-02b9023bc868201cd"
+}
