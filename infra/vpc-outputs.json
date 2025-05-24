@@ -7,5 +7,6 @@
     "PublicRtId":  null,
     "NatGatewayId":  null,
     "PrivateRtId":  null,
-    "EipAllocationId":  null
+    "EipAllocationId":  null,
+    "RdsEndpoint":  "database-1-instance-1.cxusy2w6qn27.eu-north-1.rds.amazonaws.com"
 }
